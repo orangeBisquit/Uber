@@ -1,2 +1,2 @@
 
-https://orangebisquit.github.io/Huyuber/
+https://orangebisquit.github.io/uber-beta/
